@@ -2,13 +2,10 @@
 
 ### Hi there, I'm Mayank! 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on levelling up my Data science skills
+ 🔭 I’m currently working on levelling up my Data science skills
 - 🌱 I’m currently learning about Generative Adversarial Networks
 - 👯 I’m looking to collaborate on various open source projects
-- 🤔 I’m looking for help with deployment of ML models
+- ❓I’m looking for help with deployment of ML models
 - 💬 Ask me about data science and related stuffs
 - 📫 How to reach me: mayankg514@gmail.com
 - ⚡ Fun fact: I'm a fitness enthusiast.
-
