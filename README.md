@@ -2,8 +2,6 @@
 
 ### Hi there, I'm Mayank! 👋
 
-#### Connect with me at 
-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on levelling up my Data science skills
