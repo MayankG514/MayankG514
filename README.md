@@ -8,5 +8,5 @@
 - 👯 I’m looking to collaborate on various open source projects
 - ❓I’m looking for help with deployment of ML models
 - 💬 Ask me about data science and related stuffs
-- 📫 How to reach me: mayankg514@gmail.com
+- 📫 How to reach me: mayankgrover344@gmail.com
 - ⚡ Fun fact: I'm a fitness enthusiast.
