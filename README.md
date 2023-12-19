@@ -2,7 +2,8 @@
 
 ### Hi there, I'm Mayank! 👋
 
-- 🔭 I’m currently working on levelling up my Data science skills
+- 📕 I’m currently pursuing masters in Data Analytics Engineering from George Mason University, Virginia, USA
+- 🔭 I'm working on levelling up my Data science skills
 - 🌱 I’m currently learning about Generative Adversarial Networks
 - 👯 I’m looking to collaborate on various open source projects
 - ❓I’m looking for help with deployment of ML models
