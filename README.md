@@ -9,4 +9,3 @@
 - ❓I’m looking for help with deployment of ML models
 - 💬 Ask me about data science and related stuffs
 - 📫 How to reach me: mayankgrover344@gmail.com
-- ⚡ Fun fact: I'm a fitness enthusiast.
