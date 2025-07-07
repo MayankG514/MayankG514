@@ -2,10 +2,9 @@
 
 ### Hi there, I'm Mayank! 👋
 
-- 📕 I’m currently pursuing masters in Data Analytics Engineering from George Mason University, Virginia, USA
-- 🔭 I'm working on levelling up my Data science skills
+- 📕 I’m a recent graduate with an MSc in Data Analytics Engineering from George Mason University, Virginia, USA
+- 🔭 I'm working on leveling up my Data science skills
 - 🌱 I’m currently learning about Generative Adversarial Networks
-- 👯 I’m looking to collaborate on various open source projects
-- ❓I’m looking for help with deployment of ML models
-- 💬 Ask me about data science and related stuffs
-- 📫 How to reach me: mayankgrover344@gmail.com
+- 👯 I’m looking to collaborate on various open-source projects
+- 💬 Ask me about data science and related stuff
+- 📫 How to reach me: mgrover3@gmu.edu
